@@ -619,8 +619,8 @@ If you use this repository, please cite:
 
 ```bibtex
 @article{gu2025biomedmllm,
-  title={Multimodal Large Language Models in Biomedicine},
-  author={Ran, Gu and Benjamin, Hou and et al.},
+  title={Multimodal Large Language Models in Biomedicine and Healthcare},
+  author={Ran Gu, Benjamin Hou, Yin Fang, Lauren He, Qingqing Zhu, Zhiyong Lu},
   journal={},
   year={2025}
 }
