@@ -501,7 +501,7 @@ Multimodal Large Language Models in Biomedicine
 <tr><td><a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE131907">Lung Cancer</a></td><td>scRNA-seq</td><td>208k</td><td>—</td><td><a href="https://www.nature.com/articles/s41467-020-16164-1">Nat. Commun.</a></td><td>2020-05-08</td><td>Used by GPTcelltype</td></tr>
 <tr><td><a href="https://cells.ucsc.edu/?ds=tabula-sapiens">Tabula Sapiens</a></td><td>scRNA-seq</td><td>500k</td><td>—</td><td><a href="https://www.science.org/doi/10.1126/science.abl4896">Science</a></td><td>2022-05-13</td><td>Used by GPTcelltype</td></tr>
 <tr><td><a href="https://zenodo.org/records/10833191">NCBI Summary of Genes</a></td><td>scRNA-seq</td><td>93k</td><td>—</td><td><a href="https://www.nature.com/articles/s41551-024-01284-6">Nat. Biomed. Eng.</a></td><td>2024-12-06</td><td>Used by GenePT</td></tr>
-<tr><td><a href="https://ngdc.cncb.ac.cn/databasecommons/database/id/424">GEO Repository</a></td><td>scRNA-seq</td><td>—</td><td>—</td><td><a href="https://academic.oup.com/nar/article/41/D1/D991/1067995">NAR</a></td><td>2012-11-26</td><td>Used by CellWhisperer & InstructCell</td></tr>
+<tr><td><a href="https://ngdc.cncb.ac.cn/databasecommons/database/id/424">GEO Repository</a></td><td>scRNA-seq</td><td>—</td><td>—</td><td><a href="https://academic.oup.com/nar/article/41/D1/D991/1067995">NAR</a></td><td>2012-11-26</td><td>Used by CellWhisperer</td></tr>
   </tbody>
 </table>
 
