@@ -164,7 +164,7 @@ Multimodal Large Language Models in Biomedicine
   </thead>
   <tbody>
 
-<tr><td><a href="https://github.com/rmaphoh/RETFound_MAE">RETFound</a></td><td>A foundation model for generalizable disease detection from retinal images</td><td><a href="https://www.nature.com/articles/s41586-023-06555-x">Nat.</a></td><td>2023-09-13</td></tr>
+<!-- <tr><td><a href="https://github.com/rmaphoh/RETFound_MAE">RETFound</a></td><td>A foundation model for generalizable disease detection from retinal images</td><td><a href="https://www.nature.com/articles/s41586-023-06555-x">Nat.</a></td><td>2023-09-13</td></tr> -->
 <tr><td><a href="https://github.com/sperfu/EyeDoc">EyeDoctor</a></td><td>A Role-specific Guided Large Language Model for Ophthalmic Consultation Based on Stylistic Differentiation</td><td><a href="https://arxiv.org/pdf/2407.18483">Arxiv</a></td><td>2024-06-24</td></tr>
 <tr><td><a href="https://github.com/ML-AILab/OphGLM">OphGLM</a></td><td>OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue</td><td><a href="https://arxiv.org/abs/2306.12174">Arxiv</a>; <a href="https://www.sciencedirect.com/science/article/pii/S0933365724002434">AI in Medicine 2024</a></td><td>2024-11-01</td></tr>
 <tr><td><a href="https://github.com/ABILab-CUHK/VisionFM">VisionFM</a></td><td>Development and Validation of a Multimodal Multitask Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence</td><td><a href="https://arxiv.org/abs/2310.04992">Arxiv</a>; <a href="https://ai.nejm.org/doi/full/10.1056/AIoa2300221">NEJM AI 2024</a></td><td>2024-11-27</td></tr>
