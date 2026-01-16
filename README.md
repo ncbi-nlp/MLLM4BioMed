@@ -258,6 +258,7 @@ Multimodal Large Language Models in Biomedicine
   <tbody>
 
 <tr><td>TV-SAM</td><td>TV-SAM: Increasing Zero-Shot Segmentation Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation</td><td><a href="https://arxiv.org/pdf/2402.15759">Arxiv</a>; <a href="https://www.sciopen.com/article/10.26599/BDMA.2024.9020058">BDMA 2024</a></td><td>2024-12-04</td></tr>
+<tr><td><a href="https://github.com/pkusixspace/MIMO">MIMO</a></td><td>MIMO: A medical vision language model with visual referring multimodal input and pixel grounding multimodal output</td><td><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_MIMO_A_Medical_Vision_Language_Model_with_Visual_Referring_Multimodal_CVPR_2025_paper.pdf">CVPR 2025</a></td><td>2025-06-11</td></tr>
 <tr><td><a href="https://github.com/StandWisdom/MRI-based-Predicted-Transformer-for-Prostate-cancer">MRI-PTPCa</a></td><td>An MRI–pathology foundation model for noninvasive diagnosis and grading of prostate cancer</td><td><a href="https://www.nature.com/articles/s43018-025-01041-x">Nat. Can.</a></td><td>2025-09-02</td></tr>
 
   </tbody>
@@ -332,8 +333,10 @@ Multimodal Large Language Models in Biomedicine
 <tr><td><a href="https://huggingface.co/togethercomputer/Llama-3.1-8B-Dragonfly-Med-v2">Dragonfly-Med</a></td><td>Multi-Resolution Zoom-In Encoding Enhances Vision-Language Models</td><td><a href="https://arxiv.org/abs/2406.00977">arXiv</a>; <a href="https://openreview.net/forum?id=4FRUNLuY54">OpenReview 2024</a></td><td>2024-10-14</td></tr>
 <tr><td><a href="https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224">BiomedCLIP</a></td><td>A Multimodal Biomedical Foundation Model Pretrained from Fifteen Million Scientific Image-Text Pairs</td><td><a href="https://arxiv.org/abs/2303.00915">arXiv</a>; <a href="https://ai.nejm.org/doi/full/10.1056/AIoa2400640">NEJM AI</a></td><td>2024-12-20</td></tr>
 <tr><td><a href="https://github.com/BigData-KSU/Vision-BioLLM-KSU">Vision-BioLLM</a></td><td>Large Vision Language Model for Visual Dialogue in Biomedical Imagery</td><td><a href="https://www.sciencedirect.com/science/article/pii/S1746809424014952">BSPC 2025</a></td><td>2025-01-03</td></tr>
-<tr><td>MedGemini</td><td>Capabilities of Gemini Models in Medicine</td><td><a href="https://arxiv.org/abs/2404.18416">arXiv</a></td><td>2024-04-29</td></tr>
-<tr><td>Lingshu</td><td>A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning</td><td><a href="https://arxiv.org/abs/2506.07044">arXiv</a></td><td>2025-06-08</td></tr>
+<tr><td><a href="https://github.com/Google-Health/medgemma">MedGemini</td><td>Capabilities of Gemini Models in Medicine</td><td><a href="https://arxiv.org/abs/2404.18416">arXiv; <a href="https://arxiv.org/abs/2507.05201">arXiv(tech report)</a></td><td>2024-04-29</td></tr>
+<tr><td><a href="https://github.com/FreedomIntelligence/HuatuoGPT-Vision">HuatuoGPT-Vision</td><td>HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale</td><td><a href="https://arxiv.org/abs/2406.19280">arXiv</a></td><td>2024-06-27</td></tr>
+<tr><td><a href="https://github.com/alibaba-damo-academy/MedEvalKit">Lingshu</td><td>A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning</td><td><a href="https://arxiv.org/abs/2506.07044">arXiv</a></td><td>2025-06-08</td></tr>
+
 
   </tbody>
 </table>
