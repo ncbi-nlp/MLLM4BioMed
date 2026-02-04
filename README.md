@@ -260,7 +260,7 @@ Multimodal Large Language Models in Biomedicine
 <tr><td>TV-SAM</td><td>TV-SAM: Increasing Zero-Shot Segmentation Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation</td><td><a href="https://arxiv.org/pdf/2402.15759">Arxiv</a>; <a href="https://www.sciopen.com/article/10.26599/BDMA.2024.9020058">BDMA 2024</a></td><td>2024-12-04</td></tr>
 <tr><td><a href="https://github.com/pkusixspace/MIMO">MIMO</a></td><td>MIMO: A medical vision language model with visual referring multimodal input and pixel grounding multimodal output</td><td><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_MIMO_A_Medical_Vision_Language_Model_with_Visual_Referring_Multimodal_CVPR_2025_paper.pdf">CVPR 2025</a></td><td>2025-06-11</td></tr>
 <tr><td><a href="https://github.com/StandWisdom/MRI-based-Predicted-Transformer-for-Prostate-cancer">MRI-PTPCa</a></td><td>An MRI–pathology foundation model for noninvasive diagnosis and grading of prostate cancer</td><td><a href="https://www.nature.com/articles/s43018-025-01041-x">Nat. Can.</a></td><td>2025-09-02</td></tr>
-
+<tr><td><a href="https://github.com/YH0517/AFLoc">AFLoc</a></td><td>A multimodal vision–language model for generalizable annotation-free pathology localization</td><td><a href="https://www.nature.com/articles/s41551-025-01574-7">Nat. Biomed. Eng.</a></td><td>2026-01-06</td></tr> 
   </tbody>
 </table>
 
