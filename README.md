@@ -622,11 +622,12 @@ Multimodal Large Language Models in Biomedicine
 If you use this repository, please cite:
 
 ```bibtex
-@article{gu2025biomedmllm,
+@article{gu2026multimodal,
   title={Multimodal Large Language Models in Biomedicine and Healthcare},
-  author={Ran Gu, Benjamin Hou, Yin Fang, Lauren He, Qingqing Zhu, Zhiyong Lu},
-  journal={},
-  year={2025}
+  author={Gu, Ran and Hou, Benjamin and Fang, Yin and He, Lauren and Zhu, Qingqing and Lu, Zhiyong},
+  journal={Authorea Preprints},
+  year={2026},
+  publisher={Authorea}
 }
 ```
 
