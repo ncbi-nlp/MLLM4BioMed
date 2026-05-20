@@ -1,0 +1,38 @@
+name: Update Repo Stats
+
+on:
+  push:
+    paths:
+      - "docs/**"
+      - "scripts/update_stats.py"
+      - ".github/workflows/update_stats.yml"
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0"
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Run stats script
+        run: python scripts/update_stats.py
+
+      - name: Commit updated stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md docs/stats.json
+          git diff --cached --quiet || git commit -m "chore: update repo stats"
+          git push
