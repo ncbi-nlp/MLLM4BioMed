@@ -8,7 +8,11 @@ This page collects multimodal large language models developed for **omics and si
 
 | Model | Paper | Venue | Date |
 |---|---|---|---|
+| OmicsLM | OmicsLM: A Multimodal Large Language Model for Multi-Sample Omics Reasoning | [arXiv](https://arxiv.org/abs/2605.06728) | 2026-05-07 |
+| CAPTAIN | CAPTAIN: a multimodal foundation model pretrained on co-assayed single-cell RNA and protein | [Nat. Commun.](https://www.nature.com/articles/s41467-026-72882-y) | 2026-05-07 |
 | [CellWhisperer](https://github.com/epigen/cellwhisperer) | Multimodal learning enables chat-based exploration of single-cell data | [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.10.15.618501v1); [Nat. Biotechnol.](https://www.nature.com/articles/s41587-025-02857-9) | 2025-11-11 |
+| Cell2Text | Cell2Text: Multimodal LLM for Generating Single-Cell Descriptions from RNA-Seq Data | [arXiv](https://arxiv.org/abs/2509.24840) | 2025-09-29 |
+| scMMGPT | Language-Enhanced Representation Learning for Single-Cell Transcriptomics | [arXiv](https://arxiv.org/abs/2503.09427) | 2025-03-12 |
 | [GenePT](https://github.com/yiqunchen/GenePT) | Simple and effective embedding model for single-cell biology built from ChatGPT | [Nat. Biomed. Eng.](https://www.nature.com/articles/s41551-024-01284-6) | 2024-12-06 |
 | [Precious3GPT](https://huggingface.co/insilicomedicine/precious3-gpt-multi-modal) | Multimodal Multi-Species Multi-Omics Multi-Tissue Transformer for Aging Research and Drug Discovery | [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.07.25.605062v1) | 2024-07-25 |
 | [LangCell](https://github.com/PharMolix/LangCell) | Language-Cell Pre-training for Cell Identity Understanding | [arXiv](https://arxiv.org/abs/2405.06708); [ICML 2024](https://openreview.net/forum?id=GcZjpKA37R) | 2024-06-11 |

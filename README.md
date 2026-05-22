@@ -21,7 +21,7 @@ A curated and actively maintained resource hub for
 
 ---
 
-## Overview
+# Overview
 
 This repository provides a continuously updated collection of resources for **Biomedical Multimodal Large Language Models (BioMed-MLLMs)**, including:
 
@@ -59,6 +59,7 @@ This repository aims to serve as a **centralized reference hub** for researchers
 
 # Update News
 
+- **2026-05-21** — Added **audio, ehr MLLM** methods and datasets
 - **2026-05-20** — Updated the new version of **MLLM4BioMed**
 - **2025-11-11** — Updated the 1st version of **MLLM4BioMed**
 - **2025-09-18** — Released this repository for collecting and organizing BioMed-MLLM resources
@@ -77,11 +78,24 @@ Biomedical multimodal models are categorized according to **application domain**
 | Category | Link |
 |---|---|
 | Radiology LLMs | [docs/methods/radiology.md](docs/methods/radiology.md) |
+| Ultrasound LLMs | [docs/methods/ultrasound.md](docs/methods/ultrasound.md) |
 | Pathology LLMs | [docs/methods/pathology.md](docs/methods/pathology.md) |
 | Ophthalmology LLMs | [docs/methods/ophthalmology.md](docs/methods/ophthalmology.md) |
 | Endoscopy & Surgical LLMs | [docs/methods/endoscopy.md](docs/methods/endoscopy.md) |
 | Dermatology LLMs | [docs/methods/dermatology.md](docs/methods/dermatology.md) |
 | Multidomain LLMs | [docs/methods/multidomain.md](docs/methods/multidomain.md) |
+
+## Electronic Health Record Models
+
+| Category | Link |
+|---|---|
+| EHR-LLMs | [docs/methods/ehr.md](docs/methods/ehr.md) |
+
+## Medical Audio Models
+
+| Category | Link |
+|---|---|
+| Audio-LLMs | [docs/methods/audio.md](docs/methods/audio.md) |
 
 ## Omics Models
 
@@ -109,9 +123,13 @@ We curate datasets commonly used for **training and evaluating biomedical multim
 | Category | Link |
 |---|---|
 | Radiology Datasets | [docs/datasets/radiology.md](docs/datasets/radiology.md) |
+| Ultrasound Datasets | [docs/datasets/ultrasound.md](docs/datasets/ultrasound.md) |
 | Histopathology Datasets | [docs/datasets/histopathology.md](docs/datasets/histopathology.md) |
 | Ophthalmology Datasets | [docs/datasets/ophthalmology.md](docs/datasets/ophthalmology.md) |
 | Endoscopy Datasets | [docs/datasets/endoscopy.md](docs/datasets/endoscopy.md) |
+| Dermatology Datasets | [docs/datasets/dermatology.md](docs/datasets/dermatology.md) |
+| Electronic Health Record Datasets | [docs/datasets/ehr.md](docs/datasets/ehr.md) |
+| Medical Audio Datasets | [docs/datasets/audio.md](docs/datasets/audio.md) |
 | Omics Datasets | [docs/datasets/omics.md](docs/datasets/omics.md) |
 | Multimodal Biomedical Datasets | [docs/datasets/multimodal.md](docs/datasets/multimodal.md) |
 

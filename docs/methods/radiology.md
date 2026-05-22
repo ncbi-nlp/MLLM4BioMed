@@ -8,16 +8,18 @@ This page collects multimodal large language models developed for **radiology im
 
 | Model | Paper | Venue | Date |
 |---|---|---|---|
+| Decipher-MR | Decipher-MR: a vision-language foundation model for 3D MRI representations | [npj Digital Medicine](https://www.nature.com/articles/s41746-026-02596-4) | 2026-04-04 |
 | [Merlin](https://github.com/StanfordMIMI/Merlin) | Merlin: a computed tomography vision-language foundation model and dataset | [arXiv](https://arxiv.org/abs/2406.06512); [Nature 2026](https://www.nature.com/articles/s41586-026-10181-8) | 2026-03-04 |
+| [CT-CHAT](https://github.com/ibrahimethemhamamci/CT-CHAT) | Generalist foundation models from a multimodal dataset for 3D computed tomography | [Nature Biomedical Engineering](https://www.nature.com/articles/s41551-025-01599-y); [arXiv](https://arxiv.org/abs/2403.17834) | 2026-02-12 |
 | [RadFM](https://github.com/chaoyi-wu/RadFM) | Towards Generalist Foundation Model for Radiology by Leveraging Web-scale 2D & 3D Medical Data | [arXiv](https://arxiv.org/abs/2308.02463); [Nature Communications](https://www.nature.com/articles/s41467-025-62385-7) | 2025-08-23 |
 | [RaDialog](https://github.com/ChantalMP/RaDialog) | RaDialog: Large Vision-Language Models for X-Ray Reporting and Dialog-Driven Assistance | [arXiv](https://arxiv.org/abs/2311.18681); [MIDL 2025](https://openreview.net/forum?id=trUvr1gSNI) | 2025-03-27 |
+| [RadVLM](https://github.com/uzh-dqbm-cmi/RadVLM) | RadVLM: A Multitask Conversational Vision-Language Model for Radiology | [arXiv](https://arxiv.org/abs/2502.03333) | 2025-02-05 |
 | [CXR-LLaVA](https://github.com/ECOFRI/CXR_LLaVA) | CXR-LLaVA: a Multimodal Large Language Model for Interpreting Chest X-Ray Images | [arXiv](https://arxiv.org/abs/2310.18341); [European Radiology](https://link.springer.com/article/10.1007/s00330-024-11339-6) | 2025-01-15 |
 | [MAIRA-Seg](https://www.microsoft.com/en-us/research/project/project-maira/) | MAIRA-Seg: Enhancing Radiology Report Generation with Segmentation-Aware Multimodal Large Language Models | [arXiv](https://arxiv.org/abs/2411.11362); [ML4H 2024](https://proceedings.mlr.press/v259/sharma25a.html) | 2024-12-15 |
 | OaD | An Organ-Aware Diagnosis Framework for Radiology Report Generation | [IEEE TMI](https://ieeexplore.ieee.org/document/10579857) | 2024-12-02 |
 | [MCPL](https://github.com/CUHK-AIM-Group/MCPL) | MCPL: Multi-Modal Collaborative Prompt Learning for Medical Vision-Language Model | [IEEE TMI](https://ieeexplore.ieee.org/document/10570257) | 2024-12-02 |
 | Flamingo-CXR | Collaboration Between Clinicians and Vision-Language Models in Radiology Report Generation | [arXiv](https://arxiv.org/abs/2311.18260); [Nature Medicine](https://www.nature.com/articles/s41591-024-03302-1) | 2024-11-07 |
 | [LLMSeg](https://github.com/tvseg/MM-LLM-RO) | LLM-driven Multimodal Target Volume Contouring in Radiation Oncology | [arXiv](https://arxiv.org/abs/2311.01908); [Nature Communications](https://www.nature.com/articles/s41467-024-53387-y) | 2024-10-24 |
-| [CTChat](https://github.com/ibrahimethemhamamci/CT-CHAT) | Developing Generalist Foundation Models from Multimodal CT Data | [arXiv](https://arxiv.org/abs/2403.17834) | 2024-10-16 |
 | [CT2Rep](https://github.com/ibrahimethemhamamci/CT2Rep) | Automated Radiology Report Generation for 3D Medical Imaging | [arXiv](https://arxiv.org/abs/2403.06801); [MICCAI 2024](https://link.springer.com/chapter/10.1007/978-3-031-72390-2_45) | 2024-10-01 |
 | [RoentGen](https://github.com/StanfordMIMI/RoentGen) | A Vision-Language Foundation Model for the Generation of Realistic Chest X-Ray Images | [Nature Biomedical Engineering](https://www.nature.com/articles/s41551-024-01246-y) | 2024-08-26 |
 | [XrayGPT](https://github.com/mbzuai-oryx/XrayGPT) | XrayGPT: Chest Radiographs Summarization using Large Medical Vision-Language Models | [arXiv](https://arxiv.org/abs/2306.07971); [BioNLP-ACL 2024](https://aclanthology.org/2024.bionlp-1.35/) | 2024-08-16 |

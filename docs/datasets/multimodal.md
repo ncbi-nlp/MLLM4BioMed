@@ -9,6 +9,7 @@ This page lists datasets designed for **general multimodal biomedical learning**
 | Dataset | Modalities | Images | Text | Paper | Date | Tasks |
 |---|---|---|---|---|---|---|
 | [MedMD](https://github.com/chaoyi-wu/RadFM) | Img, Text | 16M | — | [arXiv](https://arxiv.org/abs/2308.02463); [Nat. Commun.](https://www.nature.com/articles/s41467-025-62385-7) | 2025-08-23 | VQA, report generation |
+| [MedMax](https://huggingface.co/datasets/mint-medmax/medmax_data) | Img, Text | 1.47M inst. | 1.47M inst. | [arXiv](https://arxiv.org/abs/2412.12661) | 2024-12-17 | instruction tuning, VQA, captioning, report |
 | [PubMedVision](https://huggingface.co/datasets/FreedomIntelligence/PubMedVision) | Img, Text | 914.9k | 1.3M | [arXiv](https://arxiv.org/abs/2406.19280) | 2024-09-30 | VQA |
 | [OmniMedVQA](https://github.com/OpenGVLab/Multi-Modality-Arena) | Img, Text | 118k | 127.9k | [arXiv](https://arxiv.org/abs/2402.09181); [CVPR 2024](https://ieeexplore.ieee.org/document/10655261) | 2024-09-16 | VQA |
 | [PMC-VQA](https://xiaoman-zhang.github.io/PMC-VQA/) | Img, Text | 149k | 227k | [arXiv](https://arxiv.org/abs/2305.10415) | 2024-09-08 | VQA |

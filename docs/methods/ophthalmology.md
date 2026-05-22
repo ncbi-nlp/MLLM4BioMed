@@ -8,6 +8,7 @@ This page collects multimodal large language models developed for **ophthalmolog
 
 | Model | Paper | Venue | Date |
 |---|---|---|---|
+| LO-VLM | Compact vision language models enable efficient and interpretable optical coherence tomography through layer-specific multimodal learning | [Commun. Med.](https://www.nature.com/articles/s43856-025-01293-9) | 2025-12-27 |
 | [EyeFM](https://github.com/eyefm/EyeFM) | An eyecare foundation model for clinical assistance: a randomized controlled trial | [Nat. Med.](https://www.nature.com/articles/s41591-025-03900-7) | 2025-08-28 |
 | [VisionUnite](https://github.com/HUANGLIZI/VisionUnite) | VisionUnite: A Vision-Language Foundation Model for Ophthalmology Enhanced with Clinical Knowledge | [arXiv](https://arxiv.org/pdf/2408.02865); [TPAMI 2025](https://ieeexplore.ieee.org/document/11124413) | 2025-08-13 |
 | [RetiZero](https://github.com/LooKing9218/RetiZero) | Enhancing diagnostic accuracy in rare and common fundus diseases with a knowledge-rich vision-language model | [Nat. Commun.](https://www.nature.com/articles/s41467-025-60577-9) | 2025-07-01 |

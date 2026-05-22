@@ -8,7 +8,9 @@ This page collects multimodal large language models designed for **digital patho
 
 | Model | Paper | Venue | Date |
 |---|---|---|---|
+| LoC-Path | LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models | [arXiv](https://arxiv.org/abs/2512.05391) | 2025-12-05 |
 | [WSI-LLaVA](https://github.com/XinhengLyu/WSI-LLaVA) | WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image | [arXiv](https://arxiv.org/abs/2412.02141); [ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/html/Liang_WSI-LLaVA_A_Multimodal_Large_Language_Model_for_Whole_Slide_Image_ICCV_2025_paper.html) | 2025-10-19 |
+| PathChat+ / SlideSeek | Evidence-based diagnostic reasoning with multi-agent copilot for human pathology | [arXiv](https://arxiv.org/abs/2506.20964) | 2025-06-26 |
 | PRISM2 | PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue | [arXiv](https://arxiv.org/abs/2506.13063) | 2025-06-16 |
 | [CPath-Omni](https://github.com/PathFoundation/CPath-Omni) | CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology | [CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/html/Sun_CPath-Omni_A_Unified_Multimodal_Foundation_Model_for_Patch_and_Whole_CVPR_2025_paper.html) | 2025-06-11 |
 | [SlideChat](https://uni-medical.github.io/SlideChat.github.io) | SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding | [arXiv](https://arxiv.org/pdf/2410.11761); [CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_SlideChat_A_Large_Vision-Language_Assistant_for_Whole-Slide_Pathology_Image_Understanding_CVPR_2025_paper.pdf) | 2025-06-11 |
